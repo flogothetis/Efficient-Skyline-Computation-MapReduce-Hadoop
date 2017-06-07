@@ -1,3 +1,13 @@
+
+/*
+
+Author : Logothetis Fragkoulis
+ECE
+Electrical and Computer Engineer
+*/
+
+
+
 During the last decades, data management and storage have become increasingly distributed. Advanced query operators, such as 
 skyline queries, have become, not just useful, but indispensable, in order to help users handle the huge amount of available
 data by identifying a set of interesting data objects. Space partition techniques, such as recursive division of the data space,
