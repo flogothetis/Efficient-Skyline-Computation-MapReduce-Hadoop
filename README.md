@@ -1,9 +1,9 @@
 
 /*
 
-Author : Logothetis Fragkoulis
-ECE
-Electrical and Computer Engineer
+-Author : Logothetis Fragkoulis
+-ECE
+-Electrical and Computer Engineer
 */
 
 
