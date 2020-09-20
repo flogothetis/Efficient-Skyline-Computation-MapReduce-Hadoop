@@ -1,10 +1,7 @@
 
-/*
-
 -Author : Logothetis Fragkoulis
 -ECE
 -Electrical and Computer Engineer
-*/
 
 
 
@@ -25,7 +22,7 @@ parallel environments.
 
 Even before the introduction of skyline queries into database research, 
 the problem of making interesting decisions was known as the maximum vector problem
-or the Pareto [1] optimum. In recent years, skyline query processing has become an important issue 
+or the Pareto optimum. In recent years, skyline query processing has become an important issue 
 in database research. The popularity of the skyline operator is mainly due to its applicability on decision
 making applications. In such applications, the database tuples are represented as a set of multidimensional 
 data points and the skyline set contains those particular points which present the best trade-oﬀs between the 
